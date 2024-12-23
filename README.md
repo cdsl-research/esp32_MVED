@@ -37,14 +37,27 @@ sim_score() calculates euclidian distance using given 2 arguments from extract_f
 # Files need to be edited
 ## ID.txt
 set unique number
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/7b17d52f-69a0-4f93-b287-2510e6bab20f" />
+
 
 ## flag.txt
 set "True" for initial cluster head
 
 set "False" for initial cluster member
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/9f5edf7d-7572-424f-8bc6-955ff71a65b2" />
+
 
 ## remaining_battery.csv, how_many_times.csv
 delete file before starting experiment.
+### remaining_battery.csv sample
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/5c15f99e-46a8-4d6d-9f9d-039bfe1e05d6" />
+
+### how_many_times.csv sample
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/9e4c77a5-3fe4-4c36-a050-c1aaffd2ddcf" />
+
+
 
 ## cumulative_energy.txt
 write "0" or delete file before start experiment 
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/6587e861-6244-4e15-bc61-9b794abf0d40" />
+
