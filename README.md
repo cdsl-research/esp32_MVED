@@ -37,6 +37,7 @@ sim_score() calculates euclidian distance using given 2 arguments from extract_f
 # Files need to be edited
 ## ID.txt
 set unique number
+
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/7b17d52f-69a0-4f93-b287-2510e6bab20f" />
 
 
@@ -44,6 +45,7 @@ set unique number
 set "True" for initial cluster head
 
 set "False" for initial cluster member
+
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/9f5edf7d-7572-424f-8bc6-955ff71a65b2" />
 
 
@@ -59,5 +61,6 @@ delete file before starting experiment.
 
 ## cumulative_energy.txt
 write "0" or delete file before start experiment 
+
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/6587e861-6244-4e15-bc61-9b794abf0d40" />
 
