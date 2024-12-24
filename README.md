@@ -34,6 +34,10 @@ extract_from_csv() extracts 2 values from 'normalized_node_data.csv' and call si
 ### sim_score()
 sim_score() calculates euclidian distance using given 2 arguments from extract_from_csv().
 
+## Output sample
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/ecbee702-668a-477d-9749-770df69d164a" />
+
+
 # Files need to be edited
 ## ID.txt
 set unique number
